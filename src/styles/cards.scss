@@ -1,0 +1,9 @@
+.cards {
+  width: 600px;
+}
+
+@media (max-width: 600px) {
+  .cards {
+    width: 100%;
+  }
+}
